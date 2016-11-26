@@ -1,3 +1,4 @@
+@import("https://cdn.rawgit.com/sima0926/hatena-css/master/hatena-css.css");
 @charset "utf-8";
 /*
   Theme: boilerplate
@@ -571,7 +572,6 @@ a.keyword {
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
-
 }
 #title {
   margin: 0;
@@ -581,7 +581,7 @@ a.keyword {
 }
 #blog-description {
   font-weight: normal;
-  font-size: 80%;
+  font-size: 80px;
   margin: 5px 0 0 0;
 }
 /* ヘッダ画像を設定したとき */
