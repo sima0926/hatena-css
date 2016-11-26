@@ -567,6 +567,7 @@ a.keyword {
 #blog-title {
   height: 300px;
   line-height: 300px;
+  font-size: 10px;
   padding: 20px 0;
   background-image: url("http://cdn-ak.f.st-hatena.com/images/fotolife/m/mofmof-rabbit-mofmof/20161126/20161126152308.png?1480141455");
   background-position: top center;
@@ -581,7 +582,7 @@ a.keyword {
 }
 #blog-description {
   font-weight: normal;
-  font-size: 80px;
+  font-size: 80%;
   margin: 5px 0 0 0;
 }
 /* ヘッダ画像を設定したとき */
